@@ -1,0 +1,22 @@
+{
+    "groups": [
+        {
+            "context_type": 1,
+            "name": "ChatGPT测试群",
+            "model": "fastgpt",
+            "openai_api_key": "fastgpt-3322344"
+        },
+        {
+            "context_type": 1,
+            "name": "ChatGPT测试群2",
+            "openai_api_key": "fastgpt-xxxxxx2"
+        }
+    ],
+    "private": [
+        {
+            "context_type": 1,
+            "nickname": "xx",
+            "openai_api_key": "fastgpt-xxxxxxx"
+        }
+    ]
+}
